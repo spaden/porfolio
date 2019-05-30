@@ -4,7 +4,7 @@ class Menu extends React.Component {
     render(){
 
        return (
-           <div>Menu component</div>
+          <div>Side menu</div>
        )
     }
 }
