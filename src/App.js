@@ -11,23 +11,30 @@ class App extends React.Component {
     return(
       <div>
                 <div id="nv" class="container-fluid">
-                  <div class="row">
+                  <div class="row ">
                         <Heading/>
                     </div>
                 </div>
-
                 <div class="container">
-                    
-                    <br></br>
+                     <div class="row">
+                       <br></br><br></br><br></br><br></br><br></br>
+                       </div>  
+                </div> 
+                <div  class="container-fluid">
+                   
+                   
                     <div class="row">
-                      <div class="col-md-6">
+                      <div style={{marginLeft: "1.3em"}} class="col-md-7 col-sm-12 col-lg-7 col-xl-7">
                         <Content/>
                       </div>
-                      <div class="col-md-3">
-                        <Menu/>
-                      </div>
+                      <div  class="col-md-4">
+                        <Menu/>  
+                      </div> 
+                      
                     </div>
-                </div>
+
+                   </div>
+                
       </div>
               
     )

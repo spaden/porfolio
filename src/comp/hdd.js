@@ -4,32 +4,24 @@ class Heading extends React.Component {
     render(){
 
        return (
-           <div id="hdOut" class="col-md-12 col-xs-12 col-sm-12 col-lg-12 col-xl-12">
-                <div class="row">
-                    <div id="nm" class="col-md-3">
-                        Dheshoju Kalyan Kumar
-                    </div>
-                    <span  class="col-md-3 col-lg-5 col-xl-5 col-sm-2 col-xs-2"></span>
-                         
-                    <i class="col-md-2 col-sm-8 col-xs-8 col-lg-1 col-xl-2 fas fa-phone"> 
-                    
-                    <i style={{color:'#7DA590', fontSize: '0.8em', marginLeft: '0.4em' }}>+91-6300269132</i>
-                    
-                    </i>
-                        
+        <nav class="col-md-12 navbar navbar-expand-md navbar-light bg-light">
+        <a href="#" class="navbar-brand">
+           Dheshoju Kalyan Kumar
+        </a>
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            
+            <div class="navbar-nav ml-auto">
+            <i  class="nav-item nav-link navbar-right"><i style={{color: "#787F9B", fontSize:"0.9em"}} class="fa fa-phone" aria-hidden="true"> +91-6300269132</i></i>
+            <i  class="nav-item nav-link navbar-right"><i style={{color: "#787F9B", fontSize:"0.9em"}} class="fa fa-envelope" aria-hidden="true"> kalyanspade.n@gmail.com</i></i>
+            
 
-                    <i class="col-md-2 col-sm-8 col-xs-8 col-lg-2 col-xl-2 fas fa-envelope"> 
-                    
-                    <i style={{color:'#7DA590', fontSize: '0.9em', marginLeft: '0.4em', fontStyle: 'normal' }} >kalyanspade.n@gmail.com</i>
-                    </i>
-                        
-
-
-                    
-                </div>
-
-
-           </div>
+            </div>
+        </div>
+    </nav>
        )
 
 
