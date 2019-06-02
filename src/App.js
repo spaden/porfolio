@@ -24,10 +24,12 @@ class App extends React.Component {
                    
                    
                     <div class="row">
-                      <div style={{marginLeft: "1.3em"}} class="col-md-7 col-sm-12 col-lg-7 col-xl-7">
+                      
+                      <div style={{marginLeft: "2.3em"}} class="col-md-6 col-sm-12 col-lg-5 col-xl-5">
                         <Content/>
                       </div>
-                      <div  class="col-md-4">
+                      <span class="col-md-1 col-lg-4"></span>
+                      <div  class="col-md-4 col-lg-2">
                         <Menu/>  
                       </div> 
                       
