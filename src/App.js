@@ -24,12 +24,12 @@ class App extends React.Component {
                    
                    
                     <div class="row">
-                      
-                      <div style={{marginLeft: "2.3em"}} class="col-md-6 col-sm-12 col-lg-5 col-xl-5">
+                      <span class="col-lg-1 col-xl-1"></span>
+                      <div  style={{marginLeft: "2.3em", backgroundColor:'#F1EDCB'}} class="col-md-7 col-sm-12 col-lg-7 col-xl-7">
                         <Content/>
                       </div>
-                      <span class="col-md-1 col-lg-4"></span>
-                      <div  class="col-md-4 col-lg-2">
+                      <span class="col-md-1 col-lg-1"></span>
+                      <div  class="col-md-3 col-lg-2">
                         <Menu/>  
                       </div> 
                       
