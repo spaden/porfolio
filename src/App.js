@@ -25,7 +25,7 @@ class App extends React.Component {
                    
                     <div class="row">
                       <span class="col-lg-1 col-xl-1"></span>
-                      <div  style={{marginLeft: "2.3em", backgroundColor:'#F1EDCB'}} class="col-md-7 col-sm-12 col-lg-7 col-xl-7">
+                      <div id="cont"  class="col-md-7 col-sm-12 col-lg-7 col-xl-7">
                         <Content/>
                       </div>
                       <span class="col-md-1 col-lg-1"></span>

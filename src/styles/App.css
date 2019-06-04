@@ -3,3 +3,9 @@
     box-shadow: 5px 5px 3px #e8e8e8;
     position: fixed;
 }
+
+#cont {
+    border-radius: 3%;
+    margin-left: 2.3em;
+    background-color: #F4F5EF;
+}
