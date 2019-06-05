@@ -7,9 +7,10 @@
 }
 
 #im {
-    margin-top: 3%;
-    margin-bottom: 3%;
-    margin-right: 8%;
+    margin-left: 18%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    margin-right: 2%;
     width: 100%;
     height: 9em;
     border-radius: 7%;
@@ -26,4 +27,23 @@
 #desg {
     margin-left: 8%;
     margin-top: 2.1em;
+}
+
+#story {
+    margin-top: 6%;
+    margin-left: 4%;
+}
+
+#on {
+    margin-top: 0.2em;
+    font-size: 1.7em;
+    font-family: "Times New Roman", Times, sans-serif;
+    color: #dc7633;
+}
+
+#tw {
+    margin-top: 1em;
+    color: #45b39d;
+    font-size: 1.7em;
+    font-family: fantasy;
 }
