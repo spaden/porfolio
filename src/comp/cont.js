@@ -38,12 +38,12 @@ class Content extends React.Component {
                                 <h4 id="on">Love to build stuff, be part of a great work and fulfill my life's purpose</h4>
                                 <br></br>
                                 <h5 id="tw">"Always a life long learner, believes that expertise comes through practical knowledge and by using them in real world scenerios"</h5>
-                                <h5 id="tw">"And always love to code, no matter what."</h5> 
+                                <h5 id="tw">"And always love to code, no matter what!"</h5> 
                      </div>
                            
                 </div>
                 <br></br><br></br><br></br>
-                <div class="experience">
+                <div id="experience" class="row">
                     Testing
                 </div>
             
