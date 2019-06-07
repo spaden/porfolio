@@ -49,14 +49,25 @@
 }
 
 #experience {
+    box-shadow: 1px 1px 8px grey;
     background-color: #ABEBC6;
 }
 
 #wokWords {
-    width: 70%;
+    width: 68%;
+    margin-right: 2%;
     float: left;
 }
 
 #wokImg {
     float: left;
+}
+
+#wokProf {
+    width: 30%;
+    height: 15em;
+}
+
+ul>li {
+    margin-top: 3%;
 }
