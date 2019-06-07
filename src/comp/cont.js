@@ -32,8 +32,8 @@ class Content extends React.Component {
                
                 <div id="story" class="row">
                
-                     <span class="col-lg-2"></span>
-                     <div class="col-md-12 col-lg-8">
+                     <span class="col-lg-1"></span>
+                     <div class="col-md-12 col-lg-10">
                      
                                 <h4 id="on">Love to build stuff, be part of a great work and fulfill my life's purpose</h4>
                                 <br></br>
@@ -44,8 +44,32 @@ class Content extends React.Component {
                 </div>
                 <br></br><br></br><br></br>
                 <div id="experience" class="row">
-                    Testing
+                     <div class="col-md-12">
+                         <h5>Work Experience</h5>
+                         <hr></hr>
+                         <div id="wokCnt">
+                             <span>
+                                 <b>StareIn Digital Pvt Ltd.</b>
+                                 <b style={{float: 'right'}}>May - June(2019)</b>
+                             </span>
+                             <div>
+                                 Front-End Developer
+                             </div>
+                              
+                             <div id="wokWords">
+                                     <ul>
+                                      <li>Built an amazing embeddable chat bot from scratch and integrated it with Google Dialog flow platform</li>
+                                      <li>Designed and built a sleek and scalable console application.</li>
+                                     </ul>  
+                             </div>
+                             
+                             <div class="wokImg">
+                                 Testig
+                             </div>
+                         </div>
+                     </div>
                 </div>
+                <br></br><br></br><br></br>
             
             </div>
             
