@@ -50,7 +50,7 @@ class Content extends React.Component {
                          <hr></hr>
                          <div id="wokCnt">
                              <span>
-                                 <b>StareIn Digital Pvt Ltd.</b>
+                                 <b>StareIn Digital Pvt Ltd. | Dilegence IR</b>
                                  <b style={{float: 'right'}}>May - June(2019)</b>
                              </span>
                              <div>
@@ -142,8 +142,91 @@ class Content extends React.Component {
                          </div>
                      </div>
                 </div>
-                <br></br><br></br><br></br>
-            
+                <br></br>
+                <div>
+                    <h5>Projects</h5><hr></hr>
+                    <div class="projCont">
+                        <div class="projHd">
+                            <b>Social Network (IIT BHU Hackathon)</b>
+                            <b style={{float: 'right'}}>September 2018</b>
+                        </div>
+                        <div class="projPnt">
+                            <ul>
+                                <li>Created a social network like reddit and sarahah with additioinal exclusive features</li>
+                                <li>Built it in two days of constant coding</li>
+                                <li>As an additional feature users can create a completely annonymous group chat with unique access link</li>
+                                
+                                <li><a href="https://github.com/spaden/socialnetwork">Check out the code</a></li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <br></br>
+                    <div class="projCont">
+                        <div class="projHd">
+                            <b>I am Woman</b>
+                            <b style={{float: 'right'}}>December 2017</b>
+                        </div>
+                        <div class="projPnt">
+                            <ul>
+                                <li>Woman safety app with features like spontaneous location sharing through SMS service</li>
+                                <li>Implemented an home screen widget for ease of access in emergency situations.</li>
+                                <li><a href="https://apkgk.com/com.womansafety.kalyan.testing">Check out the app</a></li>
+                            </ul>
+
+                        </div>
+                    </div>
+
+                    <br></br>
+                    <div class="projCont">
+                        <div class="projHd">
+                            <b>ECE Freaks</b>
+                            <b style={{float: 'right'}}>September 2017</b>
+                        </div>
+                        <div class="projPnt">
+                            <ul>
+                                <li>Real time grop chat android app</li>
+                                <li>Used firebase real time database to store the chat data.</li>
+                                <li><a href="https://apkgk.com/com.bignerdranch.android.classece">Check out the app</a></li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <br></br>
+                    <div class="projCont">
+                        <div class="projHd">
+                            <b>spaden2</b>
+                            <b style={{float: 'right'}}>July 2017</b>
+                        </div>
+                        <div class="projPnt">
+                            <ul>
+                                <li>An android app to help you learn 500+ vocabulary words in an easy manner.</li>
+                                <li>Inbuilt text to speech service for word pronounciation.</li>
+                                <li>All the content organized in a lucid way to expedite the daily learning progress</li>
+                                <li><a href="https://play.google.com/store/apps/details?id=www.spadenhacks.wordpress.com&hl=en_US">Check out the app</a></li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <br></br>
+                    <div class="projCont">
+                        <div class="projHd">
+                            <b>CrazyGame.io</b>
+                            <b style={{float: 'right'}}>March 2019</b>
+                        </div>
+                        <div class="projPnt">
+                            <ul>
+                                <li>Created a web app consisting of four different games and organized the game during college annual feast.</li>
+                                <li>Built the project using AngularJS and even used some of design techniques to attract the crowd.</li>
+                                <li>Games consisted of betting to predicting your future soul mate.</li>
+                                <li><a href="https://github.com/spaden/crazygame.github.io">Check out the code</a></li>
+                            </ul>
+
+                        </div>
+                    </div>
+
+                </div>
+                <br></br>
             </div>
             
         )

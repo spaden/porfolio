@@ -69,5 +69,11 @@
 }
 
 ul>li {
-    margin-top: 3%;
+    margin-top: 2.5%;
+}
+
+.projCont {
+    padding: 2%;
+    background-color: #E4F6C5;
+    border-radius: 2%;
 }
