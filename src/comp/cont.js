@@ -227,6 +227,23 @@ class Content extends React.Component {
 
                 </div>
                 <br></br>
+                <div>
+                    <h5>Skills</h5><hr></hr>
+                    <div class="skillSet">
+                        <b>Programming Languages :</b> <i>Java, Python, C, C++</i>  
+                        <br></br><br></br>
+                        <b>Web Development :</b>
+                        <ul>
+                            <li>
+                                <b>Front End :</b>   Html, Css, JavaScript, ReactJS, AngularJS, BootStrap
+                            </li>
+                            <li>
+                                <b>Backend Technologies: </b> Php, MySql, Sql, MongoDb(basics), nodeJs(basics)
+                            </li>
+                        </ul>
+                        <b>Android App Developement :</b> Android Sdk, Android Studio, Java, Kotlin (basics), Jetpack(basics), Xml, SQLITE
+                    </div>
+                </div>
             </div>
             
         )
