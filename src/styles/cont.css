@@ -83,4 +83,40 @@ ul>li {
     padding: 3%;
     border-radius: 1%;
     box-shadow: 1px 1px 8px grey;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.edu {
+    background-color: #C4DCCD;
+    padding: 2%;
+    border-radius: 1%;
+}
+
+.awd {
+    padding: 2%;
+    background-color: #E7E6DE;
+    border-radius: 15%;
+}
+
+#thank {
+    padding: 5%;
+    padding-left: 10%;
+    background-color: #DF5D40;
+    font-size: 2em;
+}
+
+.hobb {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    padding: 5%;
+    font-size: 1.3em;
+    background-color: #C5E5D9;
+    border-radius: 9%;
+    background-image: url("https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
+
+#hobbOut {
+    border-radius: 9%;
+    padding: 2%;
+    background-color: #C2DCD9;
+    opacity: 0.85;
 }

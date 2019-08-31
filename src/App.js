@@ -35,7 +35,16 @@ class App extends React.Component {
                       
                     </div>
 
-                   </div>
+                </div>
+                <hr></hr>
+                <div className="container">
+                  <div className="row">
+                    <span className="col-md-2"></span>
+                    <div>
+                      <h3 styles={{marginLeft: '2%'}}>Made in <i class="fa fa-heart" aria-hidden="true"></i> with ReactJS </h3>
+                    </div>
+                  </div>
+                </div>
                 
       </div>
               

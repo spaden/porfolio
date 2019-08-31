@@ -244,6 +244,112 @@ class Content extends React.Component {
                         <b>Android App Developement :</b> Android Sdk, Android Studio, Java, Kotlin (basics), Jetpack(basics), Xml, SQLITE
                     </div>
                 </div>
+
+                <br></br>
+                <div>
+
+                    
+                        <h5>Education</h5><hr></hr>
+                        <div class="edu">
+                        <span>
+                                    <b>Bachelors Degree </b>
+                                    <b style={{float: 'right'}}>2016 - 2020</b>
+                        </span>
+                        
+                        <div>
+                            <ul>
+                                <li>Pursuing Electronics and Communication Engineering from <u>Malla Reddy College of Engineering and Technology, Hyderabad, India</u></li>
+                                <li>GPA 7.1/10</li>
+                            </ul>
+                             
+                        </div>
+                    </div>
+
+
+
+                </div>
+                <br></br>
+                <div>
+                   <h5>Awards and Hackathons</h5>
+                    <hr></hr>
+                    <div class="awd">
+                        <ol>
+                            <li>
+                                <b>TCS Codevita (2019) : </b>
+                                Secured 1304 All India Rank and qualified round one of <a href="https://drive.google.com/file/d/1qKAKAYY_dYeU0Gjez0Jj9itSeRC-l-S0/view?usp=sharing">Codevita</a> organized by Tata Consultancy Services.  </li>
+                            <br></br>
+                            <li>
+                                <b>TechTrix, Code Marathon (March, 2019) : </b>
+                                Won <a href="https://drive.google.com/file/d/1d2qXLJ0w5-zBi5vTK-BMNBJQcrl8jlSj/view?usp=sharing">Second price</a> in an annual coding competition organized by our college. </li>
+                            <br></br>
+                            <li>
+                                <b>Societe Generale Brainwaves Hackathon (January 2019): </b> Made a concise <a href="https://github.com/spaden/Brainwaves-Hackathon-2019">webpage</a> to quickly visualize stock data of
+different companies in the stock market and made the cut to the finals.
+                            </li>
+                            <br></br>
+                            <li>
+                                <b>ThoughtWorks Hackathon (2018)</b>
+                                Submitted the Online shopping <a href="https://github.com/spaden/thoughtworks-hackathon-final-app">app</a> with all the mentioned features within a time limit of 12 hours. Implemented an advanced search feature to ease the process for users.
+                            </li>
+                            <br></br>
+                            <li>
+                                <b>Wissen Technology Frontend Challenge (2018)</b> 
+                                Created a movies list <a href="https://github.com/spaden/wissentech.github.io">webpage</a> like IMDB with simple features like search (3-5 categories) and dark mode and uploaded within 2 hours.
+                            </li>
+                        </ol>
+                    </div>
+                        
+                    
+                </div>
+
+                <br></br>
+
+                <div id="thank">
+                <b>It means a lot to me, if you made it this far. Thanks!</b>
+
+                </div>
+
+                <br></br><br></br>
+                <h4>Hobbies</h4><hr></hr>
+                <div class="hobb">
+                    
+                   <div id="hobbOut">
+                        <ul>
+                                <li><a href="https://lovemyselfs.wordpress.com/">Blogging</a> sometimes about life and stuff!</li>
+                                <li>Intense PC gaming to improve my quick decision making skills that lead to feasible and tenable end results</li>
+                                <li>BasketBall in the early mornings just so not to be termed as a couch potato</li>
+                                <li>Reading books. Favorite ones 
+                                    <br></br><br></br>
+                                    <ol>
+                                        <li>'The Alchemist'</li>
+                                        <li>'Start with why'</li>
+                                        <li>'Crush IT'</li>
+                                        <li>'Rich dad poor dad'</li>
+                                    </ol>
+                                </li>
+                                <li>Love to watch SciFi,Thriller, Documentary, Biography and Horror movies and few T.V series.<br></br><p></p><b>Favoratie T.V Series:</b> 
+                                    <br></br>
+                                    <ol>
+                                        <li>Silicon Valley</li>
+                                        <li>13 Reasons Why</li>
+                                        <li>Chernobyl</li>
+                                    </ol>
+                                    <br></br>
+                                    <b>Favoraite Movies:</b>
+                                    <ol>
+                                    <li>The Social Network</li>
+                                    <li>Arrival</li>
+                                    <li>The Martian</li>
+                                    <li>Gravity</li>
+                                    <li>Big fan of the Conjuring Universe</li>
+                                    <li>Train to Busan</li>
+                                    </ol> 
+                                </li>
+                            </ul>
+                   </div>
+                   
+                   
+                </div>
             </div>
             
         )
