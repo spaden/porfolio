@@ -14,14 +14,16 @@ class Content extends React.Component {
                         <div id="titl">
                             <div class="row">
                                 
-                                <span id="desg" class="col-md-6 col-lg-7">
+                                <span id="desg" class="col-md-7 col-lg-7">
                                     <h4>Full Stack Web | Android Developer</h4>
                                     <i id="sd"><b>Competent Programmer</b></i>
                                 </span>
                                 
-                                <span class="col-sm-4 col-md-4 col-lg-3">
-                                <img id="im" src={me} class="img-rounded"></img>
-                                </span>
+                               <span class="col-sm-4 col-xs-3 col-md-3 col-lg-4">
+                               <img id="im" src={me} class="img-rounded"></img>
+                                
+                               </span>
+                                
                             </div>
                            
                             
@@ -36,10 +38,10 @@ class Content extends React.Component {
                      <span class="col-lg-1"></span>
                      <div class="col-md-12 col-lg-10">
                      
-                                <h4 id="on">Love to build stuff, be part of a great work and fulfill my life's purpose</h4>
+                                <h4 id="on">Love to build stuff, and be a part of making this world a better place cliche!</h4>
                                 <br></br>
-                                <h5 id="tw">"Always a life long learner, believes that expertise comes through practical knowledge and by using them in real world scenerios"</h5>
-                                <h5 id="tw">"And always love to code, no matter what!"</h5> 
+                                <h5 id="tw">Always a life long learner, believes that expertise comes through practical knowledge and by using them in real world scenerios</h5>
+                                <h5 id="tw">And always love to code, no matter what!</h5> 
                      </div>
                            
                 </div>
@@ -84,8 +86,8 @@ class Content extends React.Component {
                              <div id="wokWords">
                                      <ul>
                                       <li>Collaborated the project with five team managers and 60+ project interns.</li>
-                                      <li>Designed a sleek UI for the Android App for elegant reading experience, and a newsfeed feature like Reddit in website to facilitate internal communication.</li>
-                                      <li>Figured out an algorithm to detect fake downloads and users and deployed the project on Digital Ocean Lamp VPS.</li>
+                                      <li>Designed a sleek UI in the Android App for elegant reading experience, and a newsfeed feature like Reddit in the website.</li>
+                                      <li>Figured out an algorithm to detect fake downloads and users.</li>
                                       <li><a target="_blank" href="https://github.com/spaden/themisfits">Check out more</a></li>
                                      </ul>  
                              </div>
@@ -93,8 +95,10 @@ class Content extends React.Component {
                              <div class="wokImg">
                                  <img id="wokProf" class="img img-rounded" src="https://lh3.googleusercontent.com/qj9E9zmRUEihPR2yHYRUtHiDec5Z9CKnvsmwJprtz3wUtKQkAsilefFKZAhTRTD3X6NM=w1366-h695-rw"></img>
                              </div>
+                             <br></br>
                          </div>
                          <hr></hr>
+                         
                          <div id="wokCnt">
                              <span>
                                  <b>FirstSkool.org</b>
@@ -143,7 +147,7 @@ class Content extends React.Component {
                      </div>
                 </div>
                 <br></br>
-                <div>
+                <div id="projects">
                     <h5>Projects</h5><hr></hr>
                     <div class="projCont">
                         <div class="projHd">
@@ -227,7 +231,7 @@ class Content extends React.Component {
 
                 </div>
                 <br></br>
-                <div>
+                <div id="skills">
                     <h5>Skills</h5><hr></hr>
                     <div class="skillSet">
                         <b>Programming Languages :</b> <i>Java, Python, C, C++</i>  
@@ -246,7 +250,7 @@ class Content extends React.Component {
                 </div>
 
                 <br></br>
-                <div>
+                <div id="education">
 
                     
                         <h5>Education</h5><hr></hr>
@@ -269,7 +273,7 @@ class Content extends React.Component {
 
                 </div>
                 <br></br>
-                <div>
+                <div id="awards">
                    <h5>Awards and Hackathons</h5>
                     <hr></hr>
                     <div class="awd">
@@ -311,7 +315,7 @@ different companies in the stock market and made the cut to the finals.
 
                 <br></br><br></br>
                 <h4>Hobbies</h4><hr></hr>
-                <div class="hobb">
+                <div id="hobbies" class="hobb">
                     
                    <div id="hobbOut">
                         <ul>
@@ -343,6 +347,7 @@ different companies in the stock market and made the cut to the finals.
                                     <li>Gravity</li>
                                     <li>Big fan of the Conjuring Universe</li>
                                     <li>Train to Busan</li>
+                                    <li>A walk to remember</li>
                                     </ol> 
                                 </li>
                             </ul>

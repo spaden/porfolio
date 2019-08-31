@@ -43,19 +43,19 @@ class Menu extends React.Component {
               <span class="col-md-1"></span>
               <div  class="col-md-10 col-sm-10 col-sm-10 col-xl-10 col-lg-10">
                  <div>
-                   <a  class="nab" href="#"><i class="fa fa-binoculars" aria-hidden="true">  About</i></a>
+                   <a  class="nab" href="#about"><i class="fa fa-binoculars" aria-hidden="true">  About</i></a>
                    <p></p>
-                   <a class="nab" href="#"><i class="fa fa-industry">  Experience</i></a>
+                   <a class="nab" href="#experience"><i class="fa fa-industry">  Experience</i></a>
                    <p></p>
-                   <a class="nab" href="#"><i class="fa fa-rocket">  Projects</i></a>
+                   <a class="nab" href="#projects"><i class="fa fa-rocket">  Projects</i></a>
                    <p></p>
-                   <a class="nab" href="#"><i class="fa fa-gamepad">  Skills</i></a>
+                   <a class="nab" href="#skills"><i class="fa fa-gamepad">  Skills</i></a>
                    <p></p>
-                   <a class="nab" href="#"><i class="fa fa-graduation-cap">  Education</i></a>
+                   <a class="nab" href="#education"><i class="fa fa-graduation-cap">  Education</i></a>
                    <p></p>
-                   <a class="nab" href="#"><i class="fa fa-trophy">  Awards</i></a>
+                   <a class="nab" href="#awards"><i class="fa fa-trophy">  Awards</i></a>
                    <p></p>
-                   <a class="nab" href="#"><i class="fa fa-user-secret">  Hobbies</i></a>
+                   <a class="nab" href="#hobbies"><i class="fa fa-user-secret">  Hobbies</i></a>
                  </div>
               </div>
 
